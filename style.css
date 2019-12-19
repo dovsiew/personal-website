@@ -17,12 +17,12 @@ p {
 	font-family: verdana;
 }
 
+#picture {
+	float:left;
+   	background-size: 300px 300px;
+}
+
 #information {
 	float: right;
 	width: 65%;
-}
-
-#picture {
-	float: right;
-	width: 35%;
 }
