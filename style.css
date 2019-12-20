@@ -7,22 +7,20 @@ h1 {
 	text-align: center;
 }
 
-h2 {
-	color: black;
-	font-family: verdana;
-}
-
-p {
-	color: black;
-	font-family: verdana;
+img {
+	float:left;
+   	border-radius: 50%;
 }
 
 #picture {
-	float:left;
-   	background-size: 300px 300px;
+	position: absolute;
+	left: 75px;
+	top: 100px;
 }
 
 #information {
 	float: right;
-	width: 65%;
+	width: 60%;
+	color: black;
+	font-family: verdana;
 }
