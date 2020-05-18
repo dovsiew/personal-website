@@ -2,6 +2,12 @@ body {
 	background-color: white;
 }
 
+h1 {
+	color: blue;
+	font-family: verdana;
+	text-align: center;
+}
+
 .title {
 	border-style: solid;
 	text-align: center;
@@ -16,7 +22,37 @@ body {
 	top: 45%;
 }
 
+img {
+	position: absolute;
+	left: 75px;
+	top: 150px;
+	float:left;
+   	border-radius: 50%;
+}
+
+#information {
+	float: right;
+	margin-top: 35px;
+	width: 65%;
+	font-family: verdana;
+}
+
+h2 {
+	color: cornflowerblue;
+}
+
+p {
+	color: black;
+}
+
 nav {
+	width: 100%;
+    font-size: 14px;
+    font-family: georgia;
+    text-align: center;
+}
+
+#home-nav {
 	position: absolute;
 	top: 90%;
 	left: 60%;
