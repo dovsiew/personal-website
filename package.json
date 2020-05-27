@@ -1,0 +1,23 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "This is my first attempt at  a personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dovsiew/personal-website.git"
+  },
+  "author": "David Ovsiew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dovsiew/personal-website/issues"
+  },
+  "homepage": "https://github.com/dovsiew/personal-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
